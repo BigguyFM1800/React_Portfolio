@@ -7,6 +7,7 @@ import NavigationMenu from "./NavigationMenu";
 import NavigationSocials from "./NavigationSocials";
 import { useState } from "react";
 import React from "react";
+
 const Navigation = () => {
   const [hiddenMenu, setHiddenMenu] = useState(true);
   const ref = React.useRef();

@@ -37,7 +37,7 @@ const NavigationMenu = (props) => {
           props.closeMenu();
         }}
       >
-        Portfolio
+        Projects
       </NavLink>
       <NavLink
         to="/contact"
