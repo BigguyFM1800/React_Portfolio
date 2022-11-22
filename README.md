@@ -1,8 +1,8 @@
-<img src="https://github.com/catherineisonline/personal-portfolio/blob/main/public/project-preview.png?raw=true"><img/>
-
 # Personal Portfolio
 
-My personal <a href="https://catherineisonline.github.io/personal-portfolio/">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website which features some of my github projects as well as my resume and technical skills.<br/>
+
+<img src="https://github.com/BigguyFM120/React-Portfolio/blob/master/src/assets/images/landing-screenshot.png"><img/>
 
 ## Built With
 
@@ -11,7 +11,7 @@ This project was built using these technologies:
 - React.js
 - HTML
 - Sass
-- Github pages
+- Tailwind CSS
 
 ## 🛠 Installation and Setup Instructions
 
