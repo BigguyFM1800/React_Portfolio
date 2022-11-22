@@ -2,7 +2,7 @@
 
 My personal portfolio website which features some of my github projects as well as my resume and technical skills.<br/>
 
-<img src="https://github.com/BigguyFM170/React-Portfolio/blob/master/src/assets/images/landing-screenshot.png"><img/>
+<img src="https://github.com/BigguyFM170/React_Portfolio/blob/main/src/assets/images/landing-screenshot.png"><img/>
 
 ## Built With
 
