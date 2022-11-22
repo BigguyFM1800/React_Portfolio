@@ -1,7 +1,7 @@
 const PortfolioDescription = () => {
   return (
     <section className="portfolio-text">
-      <h2 className="title-font pink-text h2-tag">My Portfolio</h2>
+      <h2 className="title-font pink-text h2-tag">My Projects</h2>
       <p className="white-text p-tag">
         I have spent a lot of time on different projects. I love doing
         everything from scratch. Here are some of my favorite ones which sum up
@@ -9,7 +9,7 @@ const PortfolioDescription = () => {
         challenges to learn the basics. You can check them on my{" "}
         <span>
           <a
-            href="https://github.com/catherineisonline?tab=repositories"
+            href="https://github.com/BigguyFM120"
             className="pink-text"
             target="_blank"
             rel="noreferrer"
