@@ -16,7 +16,7 @@ const PortfolioPreview = () => {
           courses and challenges to learn the basics. You can check them on my{" "}
           <span>
             <a
-              href="https://github.com/catherineisonline?tab=repositories"
+              href="https://github.com/BigguyFM120"
               className="pink-text"
               target="_blank"
               rel="noreferrer"
@@ -27,15 +27,7 @@ const PortfolioPreview = () => {
         </p>
       </section>
       <ProjectsPreview />
-      <section>
-        <Link
-          onClick={ResetLocation}
-          className="more-projects-btn pink-text"
-          to="/portfolio"
-        >
-          More projects
-        </Link>
-      </section>
+     
     </article>
   );
 };

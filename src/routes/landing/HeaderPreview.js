@@ -5,12 +5,12 @@ const HeaderPreview = () => {
     <article className="header">
       <h1 className="header-font white-text h1-tag">
         Hi, I'm <br></br>
-        <em className="pink-text">Catherine</em>
-        <br></br>web developer
+        <em className="pink-text">Fhatuwani</em>
+        <br></br>Full Stack Software Development
       </h1>
-      <p className="gray-text p-tag">Front End Development</p>
+      <p className="gray-text p-tag">Software Development</p>
       <Link className="pink-text" to="/portfolio">
-        Check my work
+        Explore More
       </Link>
     </article>
   );
