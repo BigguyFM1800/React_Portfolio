@@ -1,10 +1,9 @@
 import ProjectsPreview from "./ProjectsPreview";
-import { Link } from "react-router-dom";
 
 const PortfolioPreview = () => {
-  function ResetLocation() {
-    window.scrollTo(0, 0);
-  }
+  // function ResetLocation() {
+  //   window.scrollTo(0, 0);
+  // }
   return (
     <article className="portfolio">
       <section className="portfolio-text">

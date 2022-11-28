@@ -13,6 +13,7 @@ const Contact = () => {
         requests or questions regarding web development.
       </p>
       <SendEmail />
+      <contactMe />
       <Footer />
     </article>
   );
